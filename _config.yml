@@ -1,7 +1,23 @@
-name: spacefolder
-analytics: {}
+typography_spectrum: 0.4213951120618731
+content_rating:
+  adult: false
+color:
+  lightness: 0.9252282555680722
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+  saturation: 0.87869508494623
+  brandStrength: 0.8071518233045936
+  rhythmicContrast: 0.08260581619106233
 github: true
-description: sdwsedsawfb ffd fdgds fgds
+opengraph: {}
+layout_spectrum: 0.7437183200381696
+analytics: {}
+author: {}
+name: spacefolder
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -9,7 +25,16 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-author: {}
+navigation:
+  - name: BusinessCollection
+    id: da8c25d5-5e7c-4002-885e-e99ad131e454
+    type: content
+  - name: About
+    id: 8fc93172-5fd4-4630-8744-59154dea6cdf
+    type: content
+  - name: Lalal
+    id: dae0ba63-e2b1-4217-9667-11989f017902
+    type: content
 collections:
   - index:
       path: /
@@ -22,6 +47,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: A collection of space
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -31,43 +57,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/06f447f1-9404-45c7-9ade-6c9153d7f400.png
     metadata:
+      datePublished: null
+      keywords: []
+      related: []
       author: []
       '@context': 'http://schema.org'
-      keywords: []
       '@type': MediaObject
+      app_links: []
       publisher:
         favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      app_links: []
-      related: []
       description: ''
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - id: da8c25d5-5e7c-4002-885e-e99ad131e454
-    name: BusinessCollection
-    type: content
-  - id: 8fc93172-5fd4-4630-8744-59154dea6cdf
-    name: About
-    type: content
-layout_spectrum: 0.7437183200381696
-color:
-  lightness: 0.9252282555680722
-  brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
-  saturation: 0.87869508494623
-  brandStrength: 0.8071518233045936
-  rhythmicContrast: 0.08260581619106233
-content_rating:
-  adult: false
-typography_spectrum: 0.4213951120618731
-opengraph: {}
-title: A collection of space
+description: sdwsedsawfb ffd fdgds fgds
