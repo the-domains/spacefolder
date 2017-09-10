@@ -29,9 +29,6 @@ navigation:
   - name: BusinessCollection
     id: da8c25d5-5e7c-4002-885e-e99ad131e454
     type: content
-  - name: About
-    id: 8fc93172-5fd4-4630-8744-59154dea6cdf
-    type: content
 collections:
   - index:
       path: /
