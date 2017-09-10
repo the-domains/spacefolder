@@ -18,6 +18,7 @@ layout_spectrum: 0.7437183200381696
 analytics: {}
 author: {}
 name: spacefolder
+url: 'https://communicating.space/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -25,6 +26,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: About
+    id: 9de519c3-aac1-43f6-ae29-343e7839a17f
+    type: content
 collections:
   - index:
       path: /
@@ -66,4 +71,3 @@ content:
 description: >-
   We collect, publish, and promote space related activities. Earth Observation,
   Telecommunications, Space Flight, are just some of the topics!
-url: 'https://communicating.space/'
