@@ -32,9 +32,6 @@ navigation:
   - name: About
     id: 8fc93172-5fd4-4630-8744-59154dea6cdf
     type: content
-  - name: Lalal
-    id: dae0ba63-e2b1-4217-9667-11989f017902
-    type: content
 collections:
   - index:
       path: /
