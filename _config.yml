@@ -1,20 +1,20 @@
-typography_spectrum: 0.4213951120618731
+layout_spectrum: 0.4209793263265291
+typography_spectrum: 0.4865718281848153
+color:
+  lightness: 0.41157678114840446
+  brandColors:
+    - '#FFFFFF'
+    - '#071D29'
+    - '#298A9A'
+    - '#D54526'
+    - '#90EAFF'
+  saturation: 0.22536832019068892
+  brandStrength: 0.3777420753509839
+  rhythmicContrast: 0.7535658992508814
 content_rating:
   adult: false
-color:
-  lightness: 0.9252282555680722
-  brandColors:
-    - '#6C6E58'
-    - '#3E423A'
-    - '#417378'
-    - '#A4CFBE'
-    - '#F4F7D9'
-  saturation: 0.87869508494623
-  brandStrength: 0.8071518233045936
-  rhythmicContrast: 0.08260581619106233
 github: true
 opengraph: {}
-layout_spectrum: 0.7437183200381696
 analytics: {}
 author: {}
 name: communicating.space
@@ -85,7 +85,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
