@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Communicating.Space website is a blog where we select important information
   and news about the space industry and promote them.
-dateModified: '2017-09-10T18:30:45.958Z'
-datePublished: '2017-09-10T18:30:46.928Z'
+dateModified: '2017-09-10T18:31:05.039Z'
+datePublished: '2017-09-10T18:31:05.583Z'
 title: About Communicating.Space
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-09-10-about-communicatingspace.md
 starred: false
 datePublishedOriginal: '2017-09-10T18:30:46.928Z'
-sourcePath: _posts/2017-09-10-about-communicatingspace.md
 url: about-communicatingspace/index.html
 _type: Article
 
