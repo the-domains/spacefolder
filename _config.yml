@@ -25,10 +25,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: BusinessCollection
-    id: da8c25d5-5e7c-4002-885e-e99ad131e454
-    type: content
 collections:
   - index:
       path: /
