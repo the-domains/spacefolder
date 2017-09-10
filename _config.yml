@@ -15,7 +15,8 @@ content_rating:
   adult: false
 github: true
 opengraph: {}
-analytics: {}
+analytics:
+  google: UA-106195419-1
 author: {}
 name: communicating.space
 url: 'https://communicating.space/'
