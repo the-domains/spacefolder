@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Enhancing the perception and performance of the EO service industry
-dateModified: '2017-09-11T08:52:29.890Z'
-datePublished: '2017-09-11T08:52:30.632Z'
+dateModified: '2017-09-11T08:54:37.251Z'
+datePublished: '2017-09-11T08:54:37.901Z'
 title: A Taxonomy for the Earth Observation Services Market
 author: []
 publisher:
@@ -26,7 +26,7 @@ Enhancing the perception and performance of the EO service industry
 ---
 
 The Earth Observation Service market is currently characterized by the segmentation and diversity. Mainly composed by SMEs and grand funded "customers", EO service market is undergoing significant changes...
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6536d82c9341299684aa1f1eb4646f6c/croprotate.jpg?cropheight=1512&cropwidth=1827&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9fb7352b-3683-4933-b256-b4c2b32e7525.jpg&x=13&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/180ea0c9e4f11733453c7076e478b6ab28991ab5.jpg)
 
 To better understand the structure of the market the following categorization of "market players" by EARSC (European Association of Remote Sensing Companies) has been adopted:
 
@@ -39,4 +39,4 @@ To better understand the structure of the market the following categorization of
 
 You can read the detailed market analysis report of EASRC here:
 
-<article style=""><h1>Taxonomy for EO services market</h1></article>
+<article style=""><img src="http://earsc.org/images/1791.jpg" /><h1>Earsc</h1><p>The European Association of Remote Sensing Companies (EARSC) is the European organization which - on a non-profit basis - coordinates and promotes activities of their members in the area of services based on the delivery of geo-information products on customer demand.</p></article>
