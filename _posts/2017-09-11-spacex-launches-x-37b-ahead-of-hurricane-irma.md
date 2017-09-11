@@ -4,8 +4,8 @@ description: >-
   WASHINGTON — With Hurricane Irma looming off the Florida coast, SpaceX beat
   unfavorable weather odds Thursday morning to send the U.S. Air Force’s X-37B
   reusable spaceplane back into orbit for its fifth classified mission.
-dateModified: '2017-09-11T08:16:53.397Z'
-datePublished: '2017-09-11T08:16:53.963Z'
+dateModified: '2017-09-11T08:44:11.001Z'
+datePublished: '2017-09-11T08:44:11.716Z'
 title: SpaceX launches X-37B ahead of Hurricane Irma
 author:
   - name: Mike Fabey
@@ -18,9 +18,9 @@ publisher:
   domain: spacenews.com
 via: {}
 hasPage: true
+sourcePath: _posts/2017-09-11-spacex-launches-x-37b-ahead-of-hurricane-irma.md
 starred: false
 datePublishedOriginal: '2017-09-11T08:16:53.963Z'
-sourcePath: _posts/2017-09-11-spacex-launches-x-37b-ahead-of-hurricane-irma.md
 url: spacex-launches-x-37b-ahead-of-hurricane-irma/index.html
 _type: Article
 
@@ -29,13 +29,13 @@ _type: Article
 
 WASHINGTON --- With Hurricane Irma looming off the Florida coast, SpaceX beat unfavorable weather odds Thursday morning to send the U.S. Air Force's X-37B reusable spaceplane back into orbit for its fifth classified mission.
 
-A Falcon 9 carrying the Boeing-built X-37B hidden inside its protective shroud lifted off a 10:00 a.m. Eastern from NASA Kennedy Space Center's Launch Complex 39A. 
+A Falcon 9 carrying the Boeing-built X-37B hidden inside its protective shroud lifted off a 10:00 a.m. Eastern from NASA Kennedy Space Center's Launch Complex 39A.
 
 By noon, the Air Force had declared the launch a success.
 
-This was the first X-37B be launched on board a Falcon 9 and following stage separation, the rocket's first stage successfully landed at SpaceX's Landing Zone 1  at Cape Canaveral Air Force Station, Florida, the company said.
+This was the first X-37B be launched on board a Falcon 9 and following stage separation, the rocket's first stage successfully landed at SpaceX's Landing Zone 1 at Cape Canaveral Air Force Station, Florida, the company said.
 
-Officials at neighboring Patrick Air Force Base said Tuesday that the 45th Space Wing had begun their hurricane preparations sooner than usual so that they could still support today's launch attempt. On Wednesday, forecasters were giving only a 50 percent chance of acceptable weather for today's launch, with the odds of favorable conditions shrinking to 40 percent for a backup opportunity Friday. 
+Officials at neighboring Patrick Air Force Base said Tuesday that the 45th Space Wing had begun their hurricane preparations sooner than usual so that they could still support today's launch attempt. On Wednesday, forecasters were giving only a 50 percent chance of acceptable weather for today's launch, with the odds of favorable conditions shrinking to 40 percent for a backup opportunity Friday.
 
 While X-37B's mission has been tentatively scheduled to last 270 days, the Air Force has said that could change depending on the testing progress, how the vehicle performs in orbit and conditions at the landing facility.
 
